@@ -11,7 +11,5 @@ user's search through google-books API and helps users to save their favorite bo
 to see their favorite list at any time. It is developed in MVC architecture and so its very useful for the programmers 
 to modify it.
 
-Team members : Deeksha  Deeksha
-               Liya Alex
-               Krishna Jayakumar
+
                
